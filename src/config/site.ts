@@ -30,7 +30,7 @@ export const siteConfig = {
   /** 顶部公告条（跑马灯，一行文字） */
   announcement: "Anuncio: Nueva URL oficial publicada, guárdala para no perderte. Registro VIP gratis abierto.",
   /** 全局下载链接（所有图片和按钮都指向这里），示例："https://example.com/download" */
-  downloadUrl: "",
+  downloadUrl: "https://02z4zq48r6bv.nexarushplay.com/e0qjNXOZuH",
   /** 顶部快捷胶囊按钮 */
   chips: [
     { icon: "video" as const, label: "Videos gratis" },
@@ -47,7 +47,7 @@ export const siteConfig = {
   videos: [
     {
       id: "1",
-      cover: "https://example.com/picture1.webp",
+      cover: "https://gspotwizard.com/pictures/gspot-wizard-eating-pussy-sex-gif-08598973.webp",
       duration: "80:58",
       hd: true,
       vip: true,
@@ -57,7 +57,7 @@ export const siteConfig = {
     },
     {
       id: "2",
-      cover: "https://example.com/picture2.webp",
+      cover: "https://gspotwizard.com/pictures/going-deep-424.gif.webp",
       duration: "74:15",
       hd: true,
       tags: ["Nuevo", "Tendencia"],
@@ -66,7 +66,7 @@ export const siteConfig = {
     },
     {
       id: "3",
-      cover: "https://example.com/picture3.webp",
+      cover: "https://gspotwizard.com/pictures/gspotwizard-fingering-shaved-wet-pussy-8195604.webp",
       duration: "49:16",
       hd: true,
       tags: ["Tendencia", "Sub ES"],
@@ -75,7 +75,7 @@ export const siteConfig = {
     },
     {
       id: "4",
-      cover: "https://example.com/picture4.webp",
+      cover: "https://gspotwizard.com/pictures/gspotwizard-blowjob-gif-570.webp",
       duration: "84:02",
       hd: true,
       vip: true,
